@@ -1,4 +1,4 @@
-package com.codeforgeyt.jpainheritjoinedtable.model;
+package com.sekator.jpainheritjoinedtable.model;
 
 import javax.persistence.*;
 

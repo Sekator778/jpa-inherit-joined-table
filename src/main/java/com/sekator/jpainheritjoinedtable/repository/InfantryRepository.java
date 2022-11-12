@@ -1,6 +1,6 @@
-package com.codeforgeyt.jpainheritjoinedtable.repository;
+package com.sekator.jpainheritjoinedtable.repository;
 
-import com.codeforgeyt.jpainheritjoinedtable.model.Infantry;
+import com.sekator.jpainheritjoinedtable.model.Infantry;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.NoRepositoryBean;
 

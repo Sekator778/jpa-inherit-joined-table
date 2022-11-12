@@ -1,4 +1,4 @@
-package com.codeforgeyt.jpainheritjoinedtable.repository;
+package com.sekator.jpainheritjoinedtable.repository;
 
 import org.springframework.stereotype.Repository;
 
